@@ -312,7 +312,7 @@ export default function Home() {
             </div>
             <img
               className="lg:w-3/5 md:w-1/2 object-cover object-center rounded-lg md:mt-0 mt-12"
-              src="https://dummyimage.com/1200x500"
+              src="https://picsum.photos/1200/500?random=1"
               alt="step"
             />
           </div>
@@ -331,7 +331,7 @@ export default function Home() {
                 <img
                   alt="testimonial"
                   className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100"
-                  src="https://dummyimage.com/302x302"
+                  src="https://picsum.photos/300/300?random=1"
                 />
                 <p className="leading-relaxed">
                   Edison bulb retro cloud bread echo park, helvetica stumptown
@@ -351,7 +351,7 @@ export default function Home() {
                 <img
                   alt="testimonial"
                   className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100"
-                  src="https://dummyimage.com/300x300"
+                  src="https://picsum.photos/300/300?random=2"
                 />
                 <p className="leading-relaxed">
                   Edison bulb retro cloud bread echo park, helvetica stumptown
@@ -371,7 +371,7 @@ export default function Home() {
                 <img
                   alt="testimonial"
                   className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100"
-                  src="https://dummyimage.com/305x305"
+                  src="https://picsum.photos/300/300?random=3"
                 />
                 <p className="leading-relaxed">
                   Edison bulb retro cloud bread echo park, helvetica stumptown
